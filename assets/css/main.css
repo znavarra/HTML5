@@ -2063,6 +2063,9 @@ input, select, textarea {
 
 		.image.thumb {
 			text-align: center;
+			width: 317px; /* Example width */
+  			height: 195px;
+			overflow: hidden;
 		}
 
 			.image.thumb:after {
